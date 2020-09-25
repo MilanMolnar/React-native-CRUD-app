@@ -62,7 +62,7 @@ $ expo start
 
 |IOS|Android|
 |---|---|
-|<img src="https://media0.giphy.com/media/m4LGC1bIPJDMKb3wIO/giphy.gif"/> | <img src="https://media1.giphy.com/media/CQ3Hwzgw7m6wiMLtSK/giphy.gif"/>|
+|<img src="https://media0.giphy.com/media/m4LGC1bIPJDMKb3wIO/giphy.gif"/> | <img src="https://media0.giphy.com/media/DZIWyliYHjnmpZIHx5/giphy.gif"/>|
 
 
 ### License
