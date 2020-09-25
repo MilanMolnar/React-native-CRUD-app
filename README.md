@@ -60,6 +60,8 @@ $ expo start
 ```
 >QR code will install the app on your device of choice
 
+<img src="https://media0.giphy.com/media/m4LGC1bIPJDMKb3wIO/giphy.gif"/>
+
 
 ### License
 ----
