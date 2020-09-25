@@ -59,7 +59,8 @@ $ npm start
 $ expo start
 ```
 >QR code will install the app on your device of choice
->Screen recording of the app working:
+
+>Screen recordings of the app working:
 
 |IOS|Android|
 |---|---|
