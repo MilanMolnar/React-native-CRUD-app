@@ -1,3 +1,7 @@
+|Back-end API|Frontend App|
+|----|----|
+| ![PHP Composer](https://github.com/MilanMolnar/Lumen-crud-rest-api/workflows/PHP%20Composer/badge.svg) | [![Deploy Status](https://github.com/devboldly/react-build-status-badge/workflows/Deploy/badge.svg)](https://github.com/devboldly/react-build-status-badge/actions?query=workflow%3ADeploy) |
+
 ## CRUD crossplatform mobile app
 
 This project features a full crud operation capable [React Native] crossplatform app that is connected to a RESTfull [Lumen] API and a [MySQL] DB which are deployed on [AWS].
